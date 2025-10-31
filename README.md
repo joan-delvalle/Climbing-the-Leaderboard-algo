@@ -1,1 +1,1 @@
-# Climbing-the-Leaderboard-algo
+# Climbing-the-Leaderboard-algo It determines the rank of a player’s scores compared to an existing leaderboard that may have duplicate scores. The function climbingLeaderboard (currently empty) will calculate each player’s position efficiently as their scores increase, without re-sorting the leaderboard each time.
